@@ -1,0 +1,15 @@
+D:\Homework5\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+D:\Homework5\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework5\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+D:\Homework5\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+D:\Homework5\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+D:\Homework5\task19\bin\Debug\net6.0\task19.exe
+D:\Homework5\task19\bin\Debug\net6.0\task19.deps.json
+D:\Homework5\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+D:\Homework5\task19\bin\Debug\net6.0\task19.dll
+D:\Homework5\task19\bin\Debug\net6.0\task19.pdb
+D:\Homework5\task19\obj\Debug\net6.0\task19.dll
+D:\Homework5\task19\obj\Debug\net6.0\refint\task19.dll
+D:\Homework5\task19\obj\Debug\net6.0\task19.pdb
+D:\Homework5\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+D:\Homework5\task19\obj\Debug\net6.0\ref\task19.dll
